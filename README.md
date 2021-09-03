@@ -3,7 +3,7 @@ File ini untuk mendapatkan TPU++ di Colab dengan RAM 35Gb + 40 CPU !
 Sebelum mulai pastikan history browser yang dipakai untuk membuka Colab sudah dihapus bersih
 Chrome : Clear browsing data - Advanced - All time - Clear data
 Browser lain : Kurang lebihnya sama
-Download dan extract file GColab-TPU-35Gb.zip
+Download dan extract file GColab-TPU-35Gb.zip https://github.com/n12vInd/GColab-TPU-35Gb/releases
 Buka Colab https://colab.research.google.com/ lalu klik File - Upload notebook - Choose file - cari file idrx_35gb.ipynb
 Setelah sukses upload ikuti langkah-langkah yang ada didalam file
 Done!
